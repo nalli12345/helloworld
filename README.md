@@ -6,4 +6,9 @@ firstprojectevr
 we dont care
 
 
-print(hello world)
+
+
+## Initialization
+
+run with python
+
